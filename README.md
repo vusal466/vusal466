@@ -2,14 +2,13 @@
 <h3 align="center">Java Backend Developer | Data Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-💻 Backend Development • 📊 Data Science • ⚙️ Problem Solver  
+💻 Backend Development  • ⚙️ Problem Solver  
 </p>
 
 
 ## 🚀 About Me
 - 🎯 I am focused on backend development (Java, Spring Boot)
 - 📈 I am interested in Data Science and Machine Learning
-- 🌍 I am learning English, German, and Turkish
 - 🛠 I enjoy working on real-world projects
 - ⚡ My goal is to build scalable and high-performance systems
 
