@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Data Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-💻 Backend Development  • ⚙️ Problem Solver  
+💻 Backend Developer  • ⚙️ Problem Solver  
 </p>
 
 
